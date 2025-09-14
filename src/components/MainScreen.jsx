@@ -1,5 +1,5 @@
 import Navbar from "./Navbar";
-import TodoList from "./Todolist";
+import TodoList from "./TodoList";
 
 function MainScreen({ user }) {
   if (user === null) {
